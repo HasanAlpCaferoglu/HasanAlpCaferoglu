@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @HasanAlpCaferoglu
-- 👀 I’m interested in coding right now.
-- 🌱 I’m currently learning HTML and CSS
 - 📫 You can contact me via LinkedIn --> https://www.linkedin.com/in/hasanalpcaferoglu/
 
 <!---
