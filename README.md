@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @HasanAlpCaferoglu
-- 📫 You can contact me via LinkedIn --> https://www.linkedin.com/in/hasanalpcaferoglu/
 
-<!---
-HasanAlpCaferoglu/HasanAlpCaferoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ # <p align="center">Hello there, I am Alp 👋</p>
+ 
+<br/>
+<br/>
+
+![Me](/images/5p.PNG)
+ 
+
+
+- 💼 Currently, I work at ASELSAN as a mechanical engineer
+- 🌱 I’m working with React.js and related with JavaScript.
+- 📫 How to reach me alp.caferoglu@gmail.com
+
+### Contact with me:
+[![linkedin](/images/Linkedin-logo-on-transparent-Background-PNG-.png)](https://www.linkedin.com/in/hasanalpcaferoglu/)
