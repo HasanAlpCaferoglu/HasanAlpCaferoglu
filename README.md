@@ -15,9 +15,13 @@
 
 ### Contact with me:
 
-[<img align="left" alt="Alp's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> ][twitterURL]
+[<img align="left" alt="Alp's Linkedin" width="22px" src="https://raw.githubusercontent.com/HasanAlpCaferoglu/HasanAlpCaferoglu/main/images/linkedin.svg" /> ][linkedinURL]
 
-[![twitter](/images/twitterLogo)][twitterURL]
+[<img align="left" alt="Alp's Twitter" width="22px" src="https://raw.githubusercontent.com/HasanAlpCaferoglu/HasanAlpCaferoglu/main/images/twitter.svg" /> ][twitterURL]
+
+[<img align="left" alt="Alp's Instagram" width="22px" src="https://raw.githubusercontent.com/HasanAlpCaferoglu/HasanAlpCaferoglu/main/images/instagram.svg" /> ][instagramURL]
+
+
 
 
 [twitterURL]: https://twitter.com/caferoglu_alp
