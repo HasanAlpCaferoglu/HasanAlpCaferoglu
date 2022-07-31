@@ -4,10 +4,12 @@
 <br/>
 <br/>
 
-![Me](/images/5p.PNG)
- 
+<p align="center">
+<img align="center" alt="Me" width="300px" src="https://raw.githubusercontent.com/HasanAlpCaferoglu/HasanAlpCaferoglu/main/images/5p.PNG" />
+</p>
+
 <br/>
-<br/>
+
 
 - 💼 Currently, I work at ASELSAN as a mechanical engineer
 - 🌱 I’m working with React.js and related with JavaScript.
