@@ -11,7 +11,7 @@
 <br/>
 
 
-- 💼 Currently, am graduate at Bilkent University.
+- 💼 Currently, I am doing MSc at Bilkent University in the area of data science.
 - 🌱 I’m working with React.js and related with JavaScript.
 - 📫 How to reach me alp.caferoglu@gmail.com
 
