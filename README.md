@@ -11,7 +11,7 @@
 <br/>
 
 
-- 💼 Currently, I work at ASELSAN as a mechanical engineer
+- 💼 Currently, am graduate at Bilkent University.
 - 🌱 I’m working with React.js and related with JavaScript.
 - 📫 How to reach me alp.caferoglu@gmail.com
 
