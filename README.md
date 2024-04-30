@@ -12,7 +12,7 @@
 
 
 - 💼 Currently, I am doing MSc at Bilkent University in the area of data science.
-- 🌱 I’m working with React.js and related with JavaScript.
+- 🌱 I have worked as Full Stack Web Developer.
 - 📫 How to reach me alp.caferoglu@gmail.com
 
 ### Contact with me:
