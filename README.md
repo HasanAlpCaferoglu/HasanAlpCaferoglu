@@ -13,7 +13,7 @@
 
 - 💼 Currently, I am doing MSc at Bilkent University in the area of data science.
 - 🌱 I have worked as Full Stack Web Developer.
-- 📫 How to reach me alp.caferoglu@gmail.com
+- 📫 How to reach me alp.caferoglu@bilkent.edu.tr
 
 ### Contact with me:
 
