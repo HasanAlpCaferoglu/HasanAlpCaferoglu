@@ -10,9 +10,9 @@
 
 <br/>
 
+Hi, I'm Alp, a passionate individual with a diverse background. I am second-year Computer Science MSc student at Bilkent University advised by Özgür Ulusoy. My research interests include natural language processing, reasoning and information retrieval. I am currently working on a machine translation task Text-to-SQL. Previously, I had the opportunity to work at ASELSAN for approximately 1.5 years, and I graduated from METU ME.
 
-- 💼 Currently, I am doing MSc at Bilkent University in the area of data science.
-- 🌱 I have worked as Full Stack Web Developer.
+- 🌱 For more information about me, you can visit my personal web page: alpcaferoglu.com
 - 📫 How to reach me alp.caferoglu@bilkent.edu.tr
 
 ### Contact with me:
@@ -21,11 +21,7 @@
 
 [<img align="left" alt="Alp's Twitter" width="22px" src="https://raw.githubusercontent.com/HasanAlpCaferoglu/HasanAlpCaferoglu/main/images/twitter.svg" /> ][twitterURL]
 
-[<img align="left" alt="Alp's Instagram" width="22px" src="https://raw.githubusercontent.com/HasanAlpCaferoglu/HasanAlpCaferoglu/main/images/instagram.svg" /> ][instagramURL]
-
-
 
 
 [twitterURL]: https://twitter.com/caferoglu_alp
-[instagramURL]: https://www.instagram.com/alp.caferoglu/
 [linkedinURL]: https://www.linkedin.com/in/hasanalpcaferoglu/
